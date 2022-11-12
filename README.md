@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data and Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning Algorithms 
 - 💞️ I’m looking to collaborate on Data control and Machine Learning
-- 📫 How to reach me sasumwen.github.io
+- 📫 How to reach me sasumwen@pm.me
 
 <!---
 sasumwen/sasumwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
