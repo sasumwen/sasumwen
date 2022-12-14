@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sasumwen
 - 👀 I’m interested in Data and Artificial Intelligence
-- 🌱 I’m currently learning Deep Learning Algorithms 
+- 🌱 I’m currently building Deep Learning models on CNN and NLP 
 - 💞️ I’m looking to collaborate on Data control and Machine Learning
 - 📫 How to reach me sasumwen@pm.me
 
