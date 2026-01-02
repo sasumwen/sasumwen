@@ -1,25 +1,38 @@
-- 👋 Hi, I’m @sasumwen
-- 👀 I’m interested in Data and Artificial Intelligence
-- 🌱 I’m currently building Deep Learning models on CNN and NLP 
-- 💞️ I’m looking to collaborate on Data control and Machine Learning
-- 📫 How to reach me sasumwen@pm.me
+## Hi, I’m Osasumwen Raphael Imarhiagbe (Osasu)
 
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasumwen)](https://github.com/sasumwen/github-readme-stats)
---->
-<!---
-sasumwen/sasumwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<b>My GitHub Stats</b>
+I’m a Machine Learning Engineer and applied AI researcher focused on building end-to-end intelligent systems that translate research into real-world impact.
 
-<a href="http://www.github.com/sasumwen"><img src="https://github-readme-stats.vercel.app/api?username=sasumwen&show_icons=true&hide=False&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Osasu's GitHub stats" /></a>
+### What I work on
+- Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)
+- Adaptive learning systems and AI-driven education platforms
+- Multimodal deep learning (vision + time-series)
+- Scalable ML pipelines, deployment, and performance optimization
 
-<a href="http://www.github.com/sasumwen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sasumwen&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Current Work
+- **Machine Learning Engineer / Technical Lead at StudyRadar.ai**
+  - Architected and shipped an AI-powered exam preparation platform
+  - Built RAG pipelines, real-time STT/TTS, and automated feedback systems
+  - Designed scalable, cost-aware ML infrastructure on GCP
 
-<a href="http://www.github.com/sasumwen"><img src="https://activity-graph.herokuapp.com/graph?username=sasumwen&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- **Graduate Researcher (MSc Computer Science)**
+  - Designed **BoRefAttnNet**, a boundary-refined 3D U-Net for medical image segmentation
+  - Developed **DySTTM**, a dynamic spatial-temporal transformer for multimodal learning
+  - Paper accepted for peer-reviewed publication
 
-<a href="https://github.com/sasumwen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasumwen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### High-Performance Computing
+- Selected as **one of 10 Canadian researchers** by the Digital Research Alliance of Canada
+- Attended the **2025 International High-Performance Computing Summer School (IHPCSS)** in Lisbon
+- Training in GPU acceleration, parallel computing, and performance optimization
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasumwen&show_icons=true&hide_border=true)
+### Tech Stack
+- Python, PyTorch, TensorFlow (Google TensorFlow Developer Certified)
+- Transformers, RAG, FAISS, LangChain
+- Docker, CI/CD, MLflow, GCP
+- Research-to-production ML workflows
 
+### About my GitHub
+Most of my recent production work lives in **private repositories** due to IP and contractual constraints (e.g., StudyRadar.ai and consulting projects). Public repositories reflect research implementations, system prototypes, and experimental work. I am always happy to walk through architectures, design decisions, and trade-offs in detail.
+
+### Contact
+- Email: sasumwen@pm.me
+- LinkedIn: https://www.linkedin.com/in/<your-linkedin>
