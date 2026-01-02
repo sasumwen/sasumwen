@@ -34,5 +34,5 @@ I’m a Machine Learning Engineer and applied AI researcher focused on building 
 Most of my recent production work lives in **private repositories** due to IP and contractual constraints (e.g., StudyRadar.ai and consulting projects). Public repositories reflect research implementations, system prototypes, and experimental work. I am always happy to walk through architectures, design decisions, and trade-offs in detail.
 
 ### Contact
-- Email: sasumwen@pm.me
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin>
+- Email: imarhiagbeosasumwen@gmail.com
+- LinkedIn: https://www.linkedin.com/in/osasumwen
